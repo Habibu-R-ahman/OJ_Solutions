@@ -1,6 +1,10 @@
 | Volume list                            |
 |----------------------------------------|
+<<<<<<< HEAD:Outsbook/README.md
 | [Volume-1(100-129)]  |
+=======
+| [Volume-1(100-129)] ()|
+>>>>>>> master:Outsbook/INFO.md
 | [Volume-2(200-258)]               |
 | [Volume-3(300-375)]               |
 | [Volume-4(400-434)]               |
