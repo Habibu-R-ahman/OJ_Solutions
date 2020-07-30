@@ -1,6 +1,6 @@
 | Volume list                            |
 |----------------------------------------|
-| [Volume-1(100-129)] (https://github.com/Habibu-R-ahman/OJ_Solutions/tree/master/Outsbook/Volume%20-%201%20(100%20-%20129))                |
+| [Volume-1(100-129)] (README.md)                |
 | [Volume-2(200-258)]               |
 | [Volume-3(300-375)]               |
 | [Volume-4(400-434)]               |
